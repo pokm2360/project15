@@ -1,0 +1,57 @@
+2.데이터베이스 구현 답지(본).sql
+2.데이터베이스 구현 시험지(본).pdf
+20231206_082811.jpg
+20231211_092232.jpg
+20231218_152318.jpg
+20231218_191149.jpg
+20231219_213506.jpg
+20231227_111056.jpg
+20231228_082619.jpg
+20231229_082812.jpg
+2023년 12월 23일 GTQi(일러스트) 기출문제.zip
+20240121_225930.jpg
+20240122_115017.jpg
+20240127_234805.jpg
+20240129_120534.jpg
+20240201_104002.jpg
+20240204_224645.jpg
+adksetup.exe
+adkwinpesetup.exe
+beauty_20240115080148.jpg
+2-1 CREATE.sql
+2-2 ALTER.sql
+2-3 DROP.sql
+3-1 INSERT.sql
+3-2 SELECT.sql
+3-3 UPDATE.sql
+3-4 DELETE, TRUNCATE.sql
+4-1 FUNCTION.sql
+4-2 JOIN.sql
+4-3 UNION.sql
+4-4 KEY.sql
+5-1 VIEW.sql
+DATABASE Study-20240424T030100Z-001.zip
+DATABASE Study-20240424T030104Z-001.zip
+dbeaver-ce-24.0.3-x86_64-setup.exe
+desktop.ini
+dog-1728494_1920 (1).png
+dog-1728494_1920.png
+eclipse-inst-jre-win64.exe
+feelgreat.jpg
+Git-2.43.0-64-bit.exe
+GTQ 수업자료.zip
+GTQ-2022년 4월-12월 (1).zip
+GTQ-2022년 4월-12월.zip
+GTQ.zip
+image.jpg
+jdk-17_windows-x64_bin.exe
+KakaoTalk_Setup.exe
+mariadb-11.3.2-winx64.msi
+node-v20.12.2-x64.msi
+search_FILL0_wght400_GRAD0_opsz24.png
+triangles-1430105_1920 (1).png
+triangles-1430105_1920.png
+Vrew-Installer-1.13.2.exe
+VSCodeUserSetup-x64-1.86.2.exe
+인스타그램_아이콘.ai
+컴활2급 실기 예제.zip
